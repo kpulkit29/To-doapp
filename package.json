@@ -1,0 +1,25 @@
+{
+  "name": "todoapp-list",
+  "version": "1.0.0",
+  "description": "a simple todo app based on node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpulkit29/todoapp.git"
+  },
+  "author": "pulkit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpulkit29/todoapp/issues"
+  },
+  "homepage": "https://github.com/kpulkit29/todoapp#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "ejs": "^2.5.5",
+    "express": "^4.14.1",
+    "module-js": "^5.15.0"
+  }
+}
